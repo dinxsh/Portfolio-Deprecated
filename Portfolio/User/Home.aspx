@@ -445,7 +445,7 @@
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">My Work</span>
 							<h2 class="colorlib-heading animate-box">Recent Work</h2>
-						</div>
+					</div>
 					</div>
 					<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 						<div class="col-md-12">
@@ -457,8 +457,8 @@
 							<div class="project" style="background-image: url(images/img-1.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="work.html">Slice Website - Ebook</a></h3>
-										<span>E-Book Website</span>
+										<h3><a href="work.html">Yeet-CSS</a></h3>
+										<span>CSS UI Library</span>
 										<p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 10</a></span>
@@ -472,8 +472,8 @@
 							<div class="project" style="background-image: url(images/img-2.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="work.html">FreeCart</a></h3>
-										<span>Ecomm-Website</span>
+										<h3><a href="work.html">Ayane-San</a></h3>
+										<span>Discord Moderation and Game Bot</span>
 										<p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 3</a></span>
@@ -487,8 +487,8 @@
 							<div class="project" style="background-image: url(images/img-3.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="work.html">Work 03</a></h3>
-										<span>Illustration</span>
+										<h3><a href="work.html"></a>Yeet-CSS</h3>
+										<span>CSS UI library</span>
 										<p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -502,8 +502,8 @@
 							<div class="project" style="background-image: url(images/img-4.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="work.html">Work 04</a></h3>
-										<span>Application</span>
+										<h3><a href="work.html">Top 10 API's made by me</a></h3>
+										<span>REST API's built in Node-JS and Express</span> 
 										<p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -519,7 +519,7 @@
 									<div class="con">
 										<h3><a href="work.html">Work 05</a></h3>
 										<span>Graphic, Logo</span>
-										<p class="icon">
+										<p class="icon">	
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
 											<span><a href="#"><i class="icon-heart"></i> 49</a></span>
@@ -575,8 +575,8 @@
 							<div class="blog-entry">
 								<a href="blog.html" class="blog-img"><img src="images/blog-2.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
-									<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
-									<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
+									<span><small>June 2022 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+									<h3><a href="blog.html">Basic Introduction on Data Structures</a></h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 								</div>
 							</div>
@@ -585,8 +585,8 @@
 							<div class="blog-entry">
 								<a href="blog.html" class="blog-img"><img src="images/blog-3.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
-									<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
-									<h3><a href="blog.html">Make website from scratch</a></h3>
+									<span><small>June 2022 </small> | <small> Inspiration </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+									<h3><a href="blog.html">Make website in Node-JS and Express from scratch</a></h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 								</div>
 							</div>
