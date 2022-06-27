@@ -565,9 +565,9 @@
 							<div class="blog-entry">
 								<a href="blog.html" class="blog-img"><img src="images/blog-1.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
-									<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
-									<h3><a href="blog.html">Renovating National Gallery</a></h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<span><small>June 2022 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+									<h3><a href="blog.html">Creating a REST API with node-js and express </a></h3>
+									<p>This blog is a tutorial on how to create a basic REST API with node-js and express</p>
 								</div>
 							</div>
 						</div>
