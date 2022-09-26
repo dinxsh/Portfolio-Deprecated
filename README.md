@@ -1,2 +1,5 @@
 # Portfolio
-Portfolio Website live at https://dinesh.somee.com
+
+## [DEPRECATED]
+check [latest](https://github.com/dinxsh/portfolio-remastered)
+
